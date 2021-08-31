@@ -1,0 +1,6 @@
+framework module NetworkTool {
+  umbrella header "NetworkTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

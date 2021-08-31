@@ -1,0 +1,2 @@
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/NetworkTool.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TaxiModule.framework

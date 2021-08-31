@@ -1,0 +1,21 @@
+PODS:
+  - NetworkTool (0.1.0)
+  - TaxiModule (0.1.0)
+
+DEPENDENCIES:
+  - NetworkTool (from `Lib/NetworkTool`)
+  - TaxiModule (from `Lib/TaxiModule`)
+
+EXTERNAL SOURCES:
+  NetworkTool:
+    :path: Lib/NetworkTool
+  TaxiModule:
+    :path: Lib/TaxiModule
+
+SPEC CHECKSUMS:
+  NetworkTool: 2e12107eb2a9ae317b82f595326296b43307acb7
+  TaxiModule: 8702d94c483316962b62ad1a8e671790e324819c
+
+PODFILE CHECKSUM: 4bacaf95005a4ddacc9d59b71c218d0e4f66b87d
+
+COCOAPODS: 1.10.1
